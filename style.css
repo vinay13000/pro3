@@ -1,4 +1,6 @@
 body{
     text-align: center;
     font-family: monospace;
+    font-size: 20px;
+    background: linear-gradient(to left, #42f5c8, #00edb2 50%, #00ed7a 75%, #00ed7a 75%);
 }
